@@ -1,6 +1,6 @@
 # Few-Shot-Learning-for-Video-Transcription
 
-# German Lip-Reading with PyTorch AVSR and GLips Dataset
+## German Lip-Reading with PyTorch AVSR and GLips Dataset
 
 ## 📌 Overview  
 This project adapts the **PyTorch-based Audio-Visual Speech Recognition (AVSR)** system for **German lip-reading**, utilizing the **GLips dataset**. The adaptation involves **modifying preprocessing, training pipelines, and model architecture** to better capture **German phonetic structures and articulation patterns**.
