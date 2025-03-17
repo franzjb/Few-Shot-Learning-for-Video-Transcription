@@ -6,11 +6,11 @@
 This project adapts the **PyTorch-based Audio-Visual Speech Recognition (AVSR)** system for **German lip-reading**, utilizing the **GLips dataset**. The adaptation involves **modifying preprocessing, training pipelines, and model architecture** to better capture **German phonetic structures and articulation patterns**.
 
 ## 🚀 Key Features  
-- 🔹 **GLips Dataset Integration** – Processed **parliamentary speech videos** for robust lip-reading.
-- 🔹 **SentencePiece Tokenization** – Adapted the **SPM model** to German phoneme distributions.
-- 🔹 **Multimodal Learning** – Utilized both **visual (lip movements)** and **audio cues**.
-- 🔹 **Optimized Training Pipeline** – Custom **data augmentation, batch handling**, and **DDP-based multi-GPU training**.
-- 🔹 **Real-Time Inference** – Implemented efficient **frame-wise video processing**.
+🔹 **GLips Dataset Integration** – Processed **parliamentary speech videos** for robust lip-reading.
+🔹 **SentencePiece Tokenization** – Adapted the **SPM model** to German phoneme distributions.
+🔹 **Multimodal Learning** – Utilized both **visual (lip movements)** and **audio cues**.
+🔹 **Optimized Training Pipeline** – Custom **data augmentation, batch handling**, and **DDP-based multi-GPU training**.
+🔹 **Real-Time Inference** – Implemented efficient **frame-wise video processing**.
 
 ## 📂 Project Structure  
 plaintext
