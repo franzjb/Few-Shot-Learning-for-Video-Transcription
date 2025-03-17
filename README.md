@@ -30,7 +30,7 @@ plaintext
 
 ## 🛠 Installation  
 
-### 1️⃣ Clone the Repository  
+### 💻 Clone the Repository  
 bash
 git clone https://github.com/yourusername/your-repo.git
 cd your-repo
