@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/audio" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/audio/examples/avsr/data_prep/sentencepiece" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/audio/examples/avsr/data_prep/sentencepiece/kenlm" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/audio/examples/avsr/data_prep/sentencepiece/kenlm_backup" vcs="Git" />
+  </component>
+</project>
