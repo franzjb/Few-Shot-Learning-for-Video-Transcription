@@ -29,13 +29,11 @@ cd lipreading_fsl
 pip install torch torchvision torchaudio pytorch-lightning sentencepiece
 ```
 ### Preprocess Dataset
-```bash
-https://github.com/pytorch/audio/tree/main/examples/avsr/data_prep
-```
+[Pre-Processing](https://github.com/pytorch/audio/tree/main/examples/avsr/data_prep)
+
 ### Start Trainig and Evaluation
-```bash
-https://github.com/pytorch/audio/tree/main/examples/avsr
-```
+[Training](https://github.com/pytorch/audio/tree/main/examples/avsr)
+
 
 As reference
 
