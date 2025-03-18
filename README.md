@@ -22,7 +22,7 @@ This project adapts the **PyTorch-based Audio-Visual Speech Recognition (AVSR)**
 ### 💻 Clone the Repository  
 ```bash
 git clone https://github.com/franzjb/Few-Shot-Learning-for-Video-Transcription.git
-cd Few-Shot-Learning-for-Video-Transcription/lipreading_fsl
+cd lipreading_fsl
 ```
 
 As reference
