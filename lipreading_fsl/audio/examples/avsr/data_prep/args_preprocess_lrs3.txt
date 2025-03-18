@@ -1,0 +1,9 @@
+python3 preprocess_lrs3.py \
+    --data-dir=[data_dir] \
+    --detector mediapipe \
+    --dataset lrs3 \
+    --root-dir /home/frb6002/Documents/lipreading_fsl/audio/preprocessed \
+    --subset train \
+    --seg-duration 16 \
+    --groups 1 \
+    --job-index 0
