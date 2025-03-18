@@ -24,6 +24,18 @@ This project adapts the **PyTorch-based Audio-Visual Speech Recognition (AVSR)**
 git clone https://github.com/franzjb/Few-Shot-Learning-for-Video-Transcription.git
 cd lipreading_fsl
 ```
+### Install PyTorch and all necessary packages
+```bash
+pip install torch torchvision torchaudio pytorch-lightning sentencepiece
+```
+### Preprocess Dataset
+```bash
+https://github.com/pytorch/audio/tree/main/examples/avsr/data_prep
+```
+### Start Trainig and Evaluation
+```bash
+https://github.com/pytorch/audio/tree/main/examples/avsr
+```
 
 As reference
 
