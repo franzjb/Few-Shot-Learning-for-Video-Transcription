@@ -17,17 +17,6 @@ This project adapts the **PyTorch-based Audio-Visual Speech Recognition (AVSR)**
 
 🔹 **Real-Time Inference** – Implemented efficient frame-wise video processing.  
 
-
-
-## 📂 Project Structure  
-plaintext
-├── data_prep/                  # Preprocessing scripts for video and transcripts
-├── models/                      # AVSR models (Conformer-RNN-T, Fusion modules)
-├── experiments/                 # Training logs, checkpoints, and results
-├── notebooks/                   # Jupyter Notebooks for visualization & debugging
-├── scripts/                     # Utility scripts for dataset handling & evaluation
-├── README.md                    # Project documentation
-
 ## 🛠 Installation  
 
 ### 💻 Clone the Repository  
