@@ -28,6 +28,10 @@ cd lipreading_fsl
 ```bash
 pip install torch torchvision torchaudio pytorch-lightning sentencepiece
 ```
+## 📋 Requirements
+```bash
+pip install -r requirements.txt
+```
 ### 🏗 Preprocess Dataset
 [Pre-Processing](https://github.com/pytorch/audio/tree/main/examples/avsr/data_prep)
 
