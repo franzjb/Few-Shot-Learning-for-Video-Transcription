@@ -28,7 +28,7 @@ cd lipreading_fsl
 ```bash
 pip install torch torchvision torchaudio pytorch-lightning sentencepiece
 ```
-## 📋 Requirements
+### 📋 Requirements
 ```bash
 pip install -r requirements.txt
 ```
