@@ -35,7 +35,7 @@ pip install -r requirements.txt
 ### 🏗 Preprocess Dataset
 [Pre-Processing](https://github.com/pytorch/audio/tree/main/examples/avsr/data_prep)
 
-### 📉 Start Trainig and Evaluation
+### Start 📉 Trainig and 🎯 Evaluation
 [Training](https://github.com/pytorch/audio/tree/main/examples/avsr)
 
 
@@ -44,9 +44,6 @@ pip install -r requirements.txt
 Real-time ASR/VSR/AV-ASR Examples (PyTorch) [https://github.com/username/another-repo](https://github.com/pytorch/audio/tree/main/examples/avsr)
 
 GLips - German Lipreading Dataset (University of Hamburg) [https://www.fdr.uni-hamburg.de/record/10048](https://www.fdr.uni-hamburg.de/record/10048)
-
-
-## 🎯 Evaluation
 
 ## 📬 Contact
 
